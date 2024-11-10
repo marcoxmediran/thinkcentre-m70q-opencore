@@ -6,7 +6,7 @@
 ## macOS Details
 Category | Version
 :- | :-
-[OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.1
+[OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.2
 macOS | Sonoma 14.6.1
 
 ## Hardware Specifications
