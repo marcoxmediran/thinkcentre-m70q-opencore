@@ -18,6 +18,7 @@ GPU | Intel UHD Graphics 630 | ✅
 RAM | 20GB (16GB + 4GB) | ✅
 Drive | 256GB Kingston A400 SATA Drive | ✅
 Audio | Realtek ALC233 (`alcid=28`) | ✅
+Ethernet | Intel I219-V | ✅
 
 ## Notes
 - Use `iMac20,1` as your [SMBIOS](https;//github.com/corpnewt/GenSMBIOS).
