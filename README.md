@@ -17,7 +17,7 @@ CPU | Intel i5-10400T | ✅
 GPU | Intel UHD Graphics 630 | ✅
 RAM | 20GB (16GB + 4GB) | ✅
 Drive | 256GB Kingston A400 SATA Drive | ✅
-Audio | Realtek ALC233 (`alcid=28`) | ✅
+Audio | Realtek ALC235 (`alcid=28`) | ✅
 Ethernet | Intel I219-V | ✅
 
 ## Notes
