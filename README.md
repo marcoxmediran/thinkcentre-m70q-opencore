@@ -6,7 +6,7 @@
 ## macOS Details
 Category | Version
 :- | :-
-[OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.3
+[OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.5
 macOS | Sequoia 15.1
 
 ## Hardware Specifications
