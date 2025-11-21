@@ -6,10 +6,10 @@
 
 ## macOS Details
 
-| Category                                               | Version      |
-| :----------------------------------------------------- | :----------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.6        |
-| macOS                                                  | Sequoia 15.6 |
+| Category                                               | Version    |
+| :----------------------------------------------------- | :--------- |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.6      |
+| macOS                                                  | Tahoe 26.1 |
 
 ## Hardware Specifications
 
